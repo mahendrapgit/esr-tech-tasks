@@ -7,5 +7,5 @@
 
 - php artisan db:seed --class=UserSeeder
 
--php artisan storage:link
+- php artisan storage:link
 
